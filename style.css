@@ -12,7 +12,7 @@ section {
 section.one {
   background-image: linear-gradient(
       transparent 50%,
-      hsl(231, 53%, 75%, 0.5) 50%
+      hsla(230, 24%, 57%, 0.5) 50%
     ),
     linear-gradient(90deg, hsl(226, 39%, 32%) 50%, hsl(226, 39%, 10%) 50%);
   background-size: 4rem 4rem;
